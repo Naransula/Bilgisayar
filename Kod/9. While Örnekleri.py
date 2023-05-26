@@ -7,7 +7,7 @@ def sayiuretyaz():
         print(x)
         t=t+x
         sayac=sayac+1
-    print(x)
+    print(t)
 
 def girilendegertopla():
     t=0
